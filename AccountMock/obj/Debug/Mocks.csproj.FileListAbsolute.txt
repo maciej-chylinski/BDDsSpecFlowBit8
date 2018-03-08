@@ -1,0 +1,5 @@
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\AccountMock\bin\Debug\AccountMock.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\AccountMock\bin\Debug\AccountMock.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\AccountMock\obj\Debug\AccountMock.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\AccountMock\obj\Debug\AccountMock.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\AccountMock\obj\Debug\Mocks.csprojResolveAssemblyReference.cache

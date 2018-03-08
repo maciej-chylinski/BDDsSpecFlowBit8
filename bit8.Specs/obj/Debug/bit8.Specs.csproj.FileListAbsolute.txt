@@ -1,0 +1,17 @@
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\Default.srprofile
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\bit8.Specs.dll.config
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\bit8.Specs.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\bit8.Specs.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\Newtonsoft.Json.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\System.ValueTuple.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\TechTalk.SpecRun.Common.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\TechTalk.SpecRun.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\Newtonsoft.Json.xml
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\obj\Debug\bit8.Specs.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\obj\Debug\bit8.Specs.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\AccountMock.dll
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\bin\Debug\AccountMock.pdb
+c:\users\mchylinx\documents\visual studio 2015\Projects\bit8.Specs\bit8.Specs\obj\Debug\bit8.Specs.csprojResolveAssemblyReference.cache
